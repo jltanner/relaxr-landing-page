@@ -1,0 +1,154 @@
+/*
+Project Name: Relaxr Landing Page
+Client: Kim Goulbourne
+Author: Jamie Tanner
+Developer @GA in NYC
+*/
+
+
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	color: #fff;
+	font-weight: 600;
+	font-size: 48px;
+	padding: 60px 0;
+}
+h2 {
+	font-weight: 600;
+	font-size: 40px;
+	color: #033048;
+}
+p {
+	font-size: 26px;
+	font-weight: 300;
+	color: #606161;
+}
+li {
+	font-size: 26px;
+	font-weight: 300;
+	color: #606161;
+	padding-bottom: 5px;
+}
+.nav {
+	color: #fff;
+	font-weight: 800;
+	font-size: 48px;
+	text-decoration: none;
+	padding-left: 100px;
+}
+.button {
+	text-align: center;
+	font-size: 28px;
+	font-weight: 800;
+	color: #033048;
+	text-decoration: none;
+	margin: 0 auto;
+	background-color: #f9e42e;
+	padding: 10px 50px;
+	border-radius: 5px;
+}
+.hero {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(../images/header_bg.jpg);
+	height: 700px;
+	padding-top: 50px;
+}
+.hero-text {
+	text-align: center;
+}
+.benefits {
+	background-color: #f0efef;
+	padding: 30px 100px 50px 100px;
+	margin: 0;
+}
+.benefits-text ul {
+	margin-left: 50px;
+	padding: 20px 0;
+}
+.testimonial {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(../images/testimonial_bg.jpg);
+	margin: 0;
+	padding: 70px 0;
+	font-size: 36px;
+	color: #fff;
+}
+.testimonial p {
+	font-weight: 300;
+	font-style: italic;
+	text-align: center;
+	margin: 0 auto;
+	width: 440px;
+	color: #fff;
+}
+.testimonial h3 {
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 0;
+}
+.signup {
+	text-align: center;
+	background-color: #f9e42e;
+	padding: 40px 0;
+}
+.signup a {
+	margin: 0 auto;
+	background-color: #033048;
+	color: #fff;
+	font-size: 24px;
+}
+.footer {
+	background-color: #121212;
+	text-align: center;
+	padding: 50px 0;
+}
+.footer a.nav {
+	padding: 0;
+	text-align: center;
+	color: #f9e42e;
+}
+.footer p {
+	color: #fff;
+	margin: 0;
+	padding: 30px 0;
+}
+.social {
+	padding: 40px;
+}
+.social img {
+	padding: 0 20px;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+
+
+
